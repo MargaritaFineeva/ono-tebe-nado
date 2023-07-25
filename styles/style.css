@@ -48,7 +48,7 @@
   height: 100%;
 }
 
-.adress {
+.address {
   align-self: center;
   justify-self: end;
   line-height: 135%;
@@ -295,7 +295,7 @@
   font-size: 18px;
 }
 
-.footer__adress {
+.footer__address {
   align-self: center;
   justify-self: start;
   line-height: 135%;
